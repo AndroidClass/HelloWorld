@@ -11,6 +11,6 @@ public class Hello{
 	
 	public static void random(){
 		Random random = new Random();
-		System.out.println("生成的随机数为：" + random.nextInt());
+		System.out.println("生成的随机数为######################：" + random.nextInt());
 	}
 }
